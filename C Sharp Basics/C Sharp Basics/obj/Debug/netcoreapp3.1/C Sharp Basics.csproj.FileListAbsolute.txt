@@ -1,0 +1,13 @@
+C:\Users\anass\source\repos\C Sharp Basics\C Sharp Basics\bin\Debug\netcoreapp3.1\C Sharp Basics.exe
+C:\Users\anass\source\repos\C Sharp Basics\C Sharp Basics\bin\Debug\netcoreapp3.1\C Sharp Basics.deps.json
+C:\Users\anass\source\repos\C Sharp Basics\C Sharp Basics\bin\Debug\netcoreapp3.1\C Sharp Basics.runtimeconfig.json
+C:\Users\anass\source\repos\C Sharp Basics\C Sharp Basics\bin\Debug\netcoreapp3.1\C Sharp Basics.runtimeconfig.dev.json
+C:\Users\anass\source\repos\C Sharp Basics\C Sharp Basics\bin\Debug\netcoreapp3.1\C Sharp Basics.dll
+C:\Users\anass\source\repos\C Sharp Basics\C Sharp Basics\bin\Debug\netcoreapp3.1\C Sharp Basics.pdb
+C:\Users\anass\source\repos\C Sharp Basics\C Sharp Basics\obj\Debug\netcoreapp3.1\C Sharp Basics.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\C Sharp Basics\C Sharp Basics\obj\Debug\netcoreapp3.1\C Sharp Basics.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\C Sharp Basics\C Sharp Basics\obj\Debug\netcoreapp3.1\C Sharp Basics.AssemblyInfo.cs
+C:\Users\anass\source\repos\C Sharp Basics\C Sharp Basics\obj\Debug\netcoreapp3.1\C Sharp Basics.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\C Sharp Basics\C Sharp Basics\obj\Debug\netcoreapp3.1\C Sharp Basics.dll
+C:\Users\anass\source\repos\C Sharp Basics\C Sharp Basics\obj\Debug\netcoreapp3.1\C Sharp Basics.pdb
+C:\Users\anass\source\repos\C Sharp Basics\C Sharp Basics\obj\Debug\netcoreapp3.1\C Sharp Basics.genruntimeconfig.cache

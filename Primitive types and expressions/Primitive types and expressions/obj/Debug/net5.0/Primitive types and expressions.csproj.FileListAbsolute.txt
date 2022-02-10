@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Primitive types and expressions\Primitive types and expressions\obj\Debug\net5.0\Primitive types and expressions.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Primitive types and expressions\Primitive types and expressions\obj\Debug\net5.0\Primitive types and expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Primitive types and expressions\Primitive types and expressions\obj\Debug\net5.0\Primitive types and expressions.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Primitive types and expressions\Primitive types and expressions\obj\Debug\net5.0\Primitive types and expressions.AssemblyInfo.cs
+C:\Users\anass\source\repos\Primitive types and expressions\Primitive types and expressions\obj\Debug\net5.0\Primitive types and expressions.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Primitive types and expressions\Primitive types and expressions\bin\Debug\net5.0\Primitive types and expressions.exe
+C:\Users\anass\source\repos\Primitive types and expressions\Primitive types and expressions\bin\Debug\net5.0\Primitive types and expressions.deps.json
+C:\Users\anass\source\repos\Primitive types and expressions\Primitive types and expressions\bin\Debug\net5.0\Primitive types and expressions.runtimeconfig.json
+C:\Users\anass\source\repos\Primitive types and expressions\Primitive types and expressions\bin\Debug\net5.0\Primitive types and expressions.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Primitive types and expressions\Primitive types and expressions\bin\Debug\net5.0\Primitive types and expressions.dll
+C:\Users\anass\source\repos\Primitive types and expressions\Primitive types and expressions\bin\Debug\net5.0\ref\Primitive types and expressions.dll
+C:\Users\anass\source\repos\Primitive types and expressions\Primitive types and expressions\bin\Debug\net5.0\Primitive types and expressions.pdb
+C:\Users\anass\source\repos\Primitive types and expressions\Primitive types and expressions\obj\Debug\net5.0\Primitive types and expressions.dll
+C:\Users\anass\source\repos\Primitive types and expressions\Primitive types and expressions\obj\Debug\net5.0\ref\Primitive types and expressions.dll
+C:\Users\anass\source\repos\Primitive types and expressions\Primitive types and expressions\obj\Debug\net5.0\Primitive types and expressions.pdb
+C:\Users\anass\source\repos\Primitive types and expressions\Primitive types and expressions\obj\Debug\net5.0\Primitive types and expressions.genruntimeconfig.cache

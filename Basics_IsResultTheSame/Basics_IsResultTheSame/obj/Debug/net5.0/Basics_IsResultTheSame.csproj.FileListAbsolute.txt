@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Basics_IsResultTheSame\Basics_IsResultTheSame\bin\Debug\net5.0\Basics_IsResultTheSame.exe
+C:\Users\anass\source\repos\Basics_IsResultTheSame\Basics_IsResultTheSame\bin\Debug\net5.0\Basics_IsResultTheSame.deps.json
+C:\Users\anass\source\repos\Basics_IsResultTheSame\Basics_IsResultTheSame\bin\Debug\net5.0\Basics_IsResultTheSame.runtimeconfig.json
+C:\Users\anass\source\repos\Basics_IsResultTheSame\Basics_IsResultTheSame\bin\Debug\net5.0\Basics_IsResultTheSame.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Basics_IsResultTheSame\Basics_IsResultTheSame\bin\Debug\net5.0\Basics_IsResultTheSame.dll
+C:\Users\anass\source\repos\Basics_IsResultTheSame\Basics_IsResultTheSame\bin\Debug\net5.0\ref\Basics_IsResultTheSame.dll
+C:\Users\anass\source\repos\Basics_IsResultTheSame\Basics_IsResultTheSame\bin\Debug\net5.0\Basics_IsResultTheSame.pdb
+C:\Users\anass\source\repos\Basics_IsResultTheSame\Basics_IsResultTheSame\obj\Debug\net5.0\Basics_IsResultTheSame.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Basics_IsResultTheSame\Basics_IsResultTheSame\obj\Debug\net5.0\Basics_IsResultTheSame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Basics_IsResultTheSame\Basics_IsResultTheSame\obj\Debug\net5.0\Basics_IsResultTheSame.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Basics_IsResultTheSame\Basics_IsResultTheSame\obj\Debug\net5.0\Basics_IsResultTheSame.AssemblyInfo.cs
+C:\Users\anass\source\repos\Basics_IsResultTheSame\Basics_IsResultTheSame\obj\Debug\net5.0\Basics_IsResultTheSame.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Basics_IsResultTheSame\Basics_IsResultTheSame\obj\Debug\net5.0\Basics_IsResultTheSame.dll
+C:\Users\anass\source\repos\Basics_IsResultTheSame\Basics_IsResultTheSame\obj\Debug\net5.0\ref\Basics_IsResultTheSame.dll
+C:\Users\anass\source\repos\Basics_IsResultTheSame\Basics_IsResultTheSame\obj\Debug\net5.0\Basics_IsResultTheSame.pdb
+C:\Users\anass\source\repos\Basics_IsResultTheSame\Basics_IsResultTheSame\obj\Debug\net5.0\Basics_IsResultTheSame.genruntimeconfig.cache

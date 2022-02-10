@@ -1,0 +1,15 @@
+C:\Users\anass\source\repos\Conditionnals_String.UpperCase\Conditionnals_String.UpperCase\bin\Debug\net5.0\Conditionnals_String.UpperCase.exe
+C:\Users\anass\source\repos\Conditionnals_String.UpperCase\Conditionnals_String.UpperCase\bin\Debug\net5.0\Conditionnals_String.UpperCase.deps.json
+C:\Users\anass\source\repos\Conditionnals_String.UpperCase\Conditionnals_String.UpperCase\bin\Debug\net5.0\Conditionnals_String.UpperCase.runtimeconfig.json
+C:\Users\anass\source\repos\Conditionnals_String.UpperCase\Conditionnals_String.UpperCase\bin\Debug\net5.0\Conditionnals_String.UpperCase.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Conditionnals_String.UpperCase\Conditionnals_String.UpperCase\bin\Debug\net5.0\Conditionnals_String.UpperCase.dll
+C:\Users\anass\source\repos\Conditionnals_String.UpperCase\Conditionnals_String.UpperCase\bin\Debug\net5.0\ref\Conditionnals_String.UpperCase.dll
+C:\Users\anass\source\repos\Conditionnals_String.UpperCase\Conditionnals_String.UpperCase\bin\Debug\net5.0\Conditionnals_String.UpperCase.pdb
+C:\Users\anass\source\repos\Conditionnals_String.UpperCase\Conditionnals_String.UpperCase\obj\Debug\net5.0\Conditionnals_String.UpperCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Conditionnals_String.UpperCase\Conditionnals_String.UpperCase\obj\Debug\net5.0\Conditionnals_String.UpperCase.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Conditionnals_String.UpperCase\Conditionnals_String.UpperCase\obj\Debug\net5.0\Conditionnals_String.UpperCase.AssemblyInfo.cs
+C:\Users\anass\source\repos\Conditionnals_String.UpperCase\Conditionnals_String.UpperCase\obj\Debug\net5.0\Conditionnals_String.UpperCase.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Conditionnals_String.UpperCase\Conditionnals_String.UpperCase\obj\Debug\net5.0\Conditionnals_String.UpperCase.dll
+C:\Users\anass\source\repos\Conditionnals_String.UpperCase\Conditionnals_String.UpperCase\obj\Debug\net5.0\ref\Conditionnals_String.UpperCase.dll
+C:\Users\anass\source\repos\Conditionnals_String.UpperCase\Conditionnals_String.UpperCase\obj\Debug\net5.0\Conditionnals_String.UpperCase.pdb
+C:\Users\anass\source\repos\Conditionnals_String.UpperCase\Conditionnals_String.UpperCase\obj\Debug\net5.0\Conditionnals_String.UpperCase.genruntimeconfig.cache

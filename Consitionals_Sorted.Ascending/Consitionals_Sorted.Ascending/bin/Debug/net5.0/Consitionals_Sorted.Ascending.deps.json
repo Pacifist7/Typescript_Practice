@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Consitionals_Sorted.Ascending/1.0.0": {
+        "runtime": {
+          "Consitionals_Sorted.Ascending.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consitionals_Sorted.Ascending/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

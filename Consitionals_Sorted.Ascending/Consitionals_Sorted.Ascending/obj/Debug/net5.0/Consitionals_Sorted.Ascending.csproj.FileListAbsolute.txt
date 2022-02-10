@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Consitionals_Sorted.Ascending\Consitionals_Sorted.Ascending\bin\Debug\net5.0\Consitionals_Sorted.Ascending.exe
+C:\Users\anass\source\repos\Consitionals_Sorted.Ascending\Consitionals_Sorted.Ascending\bin\Debug\net5.0\Consitionals_Sorted.Ascending.deps.json
+C:\Users\anass\source\repos\Consitionals_Sorted.Ascending\Consitionals_Sorted.Ascending\bin\Debug\net5.0\Consitionals_Sorted.Ascending.runtimeconfig.json
+C:\Users\anass\source\repos\Consitionals_Sorted.Ascending\Consitionals_Sorted.Ascending\bin\Debug\net5.0\Consitionals_Sorted.Ascending.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Consitionals_Sorted.Ascending\Consitionals_Sorted.Ascending\bin\Debug\net5.0\Consitionals_Sorted.Ascending.dll
+C:\Users\anass\source\repos\Consitionals_Sorted.Ascending\Consitionals_Sorted.Ascending\bin\Debug\net5.0\ref\Consitionals_Sorted.Ascending.dll
+C:\Users\anass\source\repos\Consitionals_Sorted.Ascending\Consitionals_Sorted.Ascending\bin\Debug\net5.0\Consitionals_Sorted.Ascending.pdb
+C:\Users\anass\source\repos\Consitionals_Sorted.Ascending\Consitionals_Sorted.Ascending\obj\Debug\net5.0\Consitionals_Sorted.Ascending.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Consitionals_Sorted.Ascending\Consitionals_Sorted.Ascending\obj\Debug\net5.0\Consitionals_Sorted.Ascending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Consitionals_Sorted.Ascending\Consitionals_Sorted.Ascending\obj\Debug\net5.0\Consitionals_Sorted.Ascending.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Consitionals_Sorted.Ascending\Consitionals_Sorted.Ascending\obj\Debug\net5.0\Consitionals_Sorted.Ascending.AssemblyInfo.cs
+C:\Users\anass\source\repos\Consitionals_Sorted.Ascending\Consitionals_Sorted.Ascending\obj\Debug\net5.0\Consitionals_Sorted.Ascending.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Consitionals_Sorted.Ascending\Consitionals_Sorted.Ascending\obj\Debug\net5.0\Consitionals_Sorted.Ascending.dll
+C:\Users\anass\source\repos\Consitionals_Sorted.Ascending\Consitionals_Sorted.Ascending\obj\Debug\net5.0\ref\Consitionals_Sorted.Ascending.dll
+C:\Users\anass\source\repos\Consitionals_Sorted.Ascending\Consitionals_Sorted.Ascending\obj\Debug\net5.0\Consitionals_Sorted.Ascending.pdb
+C:\Users\anass\source\repos\Consitionals_Sorted.Ascending\Consitionals_Sorted.Ascending\obj\Debug\net5.0\Consitionals_Sorted.Ascending.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConditionalStatements_AbsoluteValue/1.0.0": {
+        "runtime": {
+          "ConditionalStatements_AbsoluteValue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConditionalStatements_AbsoluteValue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Loops_ReturnEvenNumbers/1.0.0": {
+        "runtime": {
+          "Loops_ReturnEvenNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loops_ReturnEvenNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

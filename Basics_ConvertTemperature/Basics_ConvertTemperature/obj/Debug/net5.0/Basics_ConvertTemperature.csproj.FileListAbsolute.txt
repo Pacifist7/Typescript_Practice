@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Basics_ConvertTemperature\Basics_ConvertTemperature\obj\Debug\net5.0\Basics_ConvertTemperature.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Basics_ConvertTemperature\Basics_ConvertTemperature\obj\Debug\net5.0\Basics_ConvertTemperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Basics_ConvertTemperature\Basics_ConvertTemperature\obj\Debug\net5.0\Basics_ConvertTemperature.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Basics_ConvertTemperature\Basics_ConvertTemperature\obj\Debug\net5.0\Basics_ConvertTemperature.AssemblyInfo.cs
+C:\Users\anass\source\repos\Basics_ConvertTemperature\Basics_ConvertTemperature\obj\Debug\net5.0\Basics_ConvertTemperature.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Basics_ConvertTemperature\Basics_ConvertTemperature\bin\Debug\net5.0\Basics_ConvertTemperature.exe
+C:\Users\anass\source\repos\Basics_ConvertTemperature\Basics_ConvertTemperature\bin\Debug\net5.0\Basics_ConvertTemperature.deps.json
+C:\Users\anass\source\repos\Basics_ConvertTemperature\Basics_ConvertTemperature\bin\Debug\net5.0\Basics_ConvertTemperature.runtimeconfig.json
+C:\Users\anass\source\repos\Basics_ConvertTemperature\Basics_ConvertTemperature\bin\Debug\net5.0\Basics_ConvertTemperature.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Basics_ConvertTemperature\Basics_ConvertTemperature\bin\Debug\net5.0\Basics_ConvertTemperature.dll
+C:\Users\anass\source\repos\Basics_ConvertTemperature\Basics_ConvertTemperature\bin\Debug\net5.0\ref\Basics_ConvertTemperature.dll
+C:\Users\anass\source\repos\Basics_ConvertTemperature\Basics_ConvertTemperature\bin\Debug\net5.0\Basics_ConvertTemperature.pdb
+C:\Users\anass\source\repos\Basics_ConvertTemperature\Basics_ConvertTemperature\obj\Debug\net5.0\Basics_ConvertTemperature.dll
+C:\Users\anass\source\repos\Basics_ConvertTemperature\Basics_ConvertTemperature\obj\Debug\net5.0\ref\Basics_ConvertTemperature.dll
+C:\Users\anass\source\repos\Basics_ConvertTemperature\Basics_ConvertTemperature\obj\Debug\net5.0\Basics_ConvertTemperature.pdb
+C:\Users\anass\source\repos\Basics_ConvertTemperature\Basics_ConvertTemperature\obj\Debug\net5.0\Basics_ConvertTemperature.genruntimeconfig.cache

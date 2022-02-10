@@ -1,0 +1,15 @@
+C:\Users\anass\source\repos\Challenge_HappyNumber\Challenge_HappyNumber\bin\Debug\net5.0\Challenge_HappyNumber.exe
+C:\Users\anass\source\repos\Challenge_HappyNumber\Challenge_HappyNumber\bin\Debug\net5.0\Challenge_HappyNumber.deps.json
+C:\Users\anass\source\repos\Challenge_HappyNumber\Challenge_HappyNumber\bin\Debug\net5.0\Challenge_HappyNumber.runtimeconfig.json
+C:\Users\anass\source\repos\Challenge_HappyNumber\Challenge_HappyNumber\bin\Debug\net5.0\Challenge_HappyNumber.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Challenge_HappyNumber\Challenge_HappyNumber\bin\Debug\net5.0\Challenge_HappyNumber.dll
+C:\Users\anass\source\repos\Challenge_HappyNumber\Challenge_HappyNumber\bin\Debug\net5.0\ref\Challenge_HappyNumber.dll
+C:\Users\anass\source\repos\Challenge_HappyNumber\Challenge_HappyNumber\bin\Debug\net5.0\Challenge_HappyNumber.pdb
+C:\Users\anass\source\repos\Challenge_HappyNumber\Challenge_HappyNumber\obj\Debug\net5.0\Challenge_HappyNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Challenge_HappyNumber\Challenge_HappyNumber\obj\Debug\net5.0\Challenge_HappyNumber.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Challenge_HappyNumber\Challenge_HappyNumber\obj\Debug\net5.0\Challenge_HappyNumber.AssemblyInfo.cs
+C:\Users\anass\source\repos\Challenge_HappyNumber\Challenge_HappyNumber\obj\Debug\net5.0\Challenge_HappyNumber.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Challenge_HappyNumber\Challenge_HappyNumber\obj\Debug\net5.0\Challenge_HappyNumber.dll
+C:\Users\anass\source\repos\Challenge_HappyNumber\Challenge_HappyNumber\obj\Debug\net5.0\ref\Challenge_HappyNumber.dll
+C:\Users\anass\source\repos\Challenge_HappyNumber\Challenge_HappyNumber\obj\Debug\net5.0\Challenge_HappyNumber.pdb
+C:\Users\anass\source\repos\Challenge_HappyNumber\Challenge_HappyNumber\obj\Debug\net5.0\Challenge_HappyNumber.genruntimeconfig.cache

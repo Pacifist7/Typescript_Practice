@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Conditional.NumberEven\Conditional.NumberEven\bin\Debug\net5.0\Conditional.NumberEven.exe
+C:\Users\anass\source\repos\Conditional.NumberEven\Conditional.NumberEven\bin\Debug\net5.0\Conditional.NumberEven.deps.json
+C:\Users\anass\source\repos\Conditional.NumberEven\Conditional.NumberEven\bin\Debug\net5.0\Conditional.NumberEven.runtimeconfig.json
+C:\Users\anass\source\repos\Conditional.NumberEven\Conditional.NumberEven\bin\Debug\net5.0\Conditional.NumberEven.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Conditional.NumberEven\Conditional.NumberEven\bin\Debug\net5.0\Conditional.NumberEven.dll
+C:\Users\anass\source\repos\Conditional.NumberEven\Conditional.NumberEven\bin\Debug\net5.0\ref\Conditional.NumberEven.dll
+C:\Users\anass\source\repos\Conditional.NumberEven\Conditional.NumberEven\bin\Debug\net5.0\Conditional.NumberEven.pdb
+C:\Users\anass\source\repos\Conditional.NumberEven\Conditional.NumberEven\obj\Debug\net5.0\Conditional.NumberEven.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Conditional.NumberEven\Conditional.NumberEven\obj\Debug\net5.0\Conditional.NumberEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Conditional.NumberEven\Conditional.NumberEven\obj\Debug\net5.0\Conditional.NumberEven.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Conditional.NumberEven\Conditional.NumberEven\obj\Debug\net5.0\Conditional.NumberEven.AssemblyInfo.cs
+C:\Users\anass\source\repos\Conditional.NumberEven\Conditional.NumberEven\obj\Debug\net5.0\Conditional.NumberEven.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Conditional.NumberEven\Conditional.NumberEven\obj\Debug\net5.0\Conditional.NumberEven.dll
+C:\Users\anass\source\repos\Conditional.NumberEven\Conditional.NumberEven\obj\Debug\net5.0\ref\Conditional.NumberEven.dll
+C:\Users\anass\source\repos\Conditional.NumberEven\Conditional.NumberEven\obj\Debug\net5.0\Conditional.NumberEven.pdb
+C:\Users\anass\source\repos\Conditional.NumberEven\Conditional.NumberEven\obj\Debug\net5.0\Conditional.NumberEven.genruntimeconfig.cache

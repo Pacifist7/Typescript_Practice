@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Conditionals_Sign\Conditionals_Sign\obj\Debug\net5.0\Conditionals_Sign.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Conditionals_Sign\Conditionals_Sign\obj\Debug\net5.0\Conditionals_Sign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Conditionals_Sign\Conditionals_Sign\obj\Debug\net5.0\Conditionals_Sign.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Conditionals_Sign\Conditionals_Sign\obj\Debug\net5.0\Conditionals_Sign.AssemblyInfo.cs
+C:\Users\anass\source\repos\Conditionals_Sign\Conditionals_Sign\obj\Debug\net5.0\Conditionals_Sign.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Conditionals_Sign\Conditionals_Sign\bin\Debug\net5.0\Conditionals_Sign.exe
+C:\Users\anass\source\repos\Conditionals_Sign\Conditionals_Sign\bin\Debug\net5.0\Conditionals_Sign.deps.json
+C:\Users\anass\source\repos\Conditionals_Sign\Conditionals_Sign\bin\Debug\net5.0\Conditionals_Sign.runtimeconfig.json
+C:\Users\anass\source\repos\Conditionals_Sign\Conditionals_Sign\bin\Debug\net5.0\Conditionals_Sign.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Conditionals_Sign\Conditionals_Sign\bin\Debug\net5.0\Conditionals_Sign.dll
+C:\Users\anass\source\repos\Conditionals_Sign\Conditionals_Sign\bin\Debug\net5.0\ref\Conditionals_Sign.dll
+C:\Users\anass\source\repos\Conditionals_Sign\Conditionals_Sign\bin\Debug\net5.0\Conditionals_Sign.pdb
+C:\Users\anass\source\repos\Conditionals_Sign\Conditionals_Sign\obj\Debug\net5.0\Conditionals_Sign.dll
+C:\Users\anass\source\repos\Conditionals_Sign\Conditionals_Sign\obj\Debug\net5.0\ref\Conditionals_Sign.dll
+C:\Users\anass\source\repos\Conditionals_Sign\Conditionals_Sign\obj\Debug\net5.0\Conditionals_Sign.pdb
+C:\Users\anass\source\repos\Conditionals_Sign\Conditionals_Sign\obj\Debug\net5.0\Conditionals_Sign.genruntimeconfig.cache

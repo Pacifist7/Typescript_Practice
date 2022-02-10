@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Conditionnals_Char.IsUpper\Conditionnals_Char.IsUpper\obj\Debug\net5.0\Conditionnals_Char.IsUpper.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Conditionnals_Char.IsUpper\Conditionnals_Char.IsUpper\obj\Debug\net5.0\Conditionnals_Char.IsUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Conditionnals_Char.IsUpper\Conditionnals_Char.IsUpper\obj\Debug\net5.0\Conditionnals_Char.IsUpper.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Conditionnals_Char.IsUpper\Conditionnals_Char.IsUpper\obj\Debug\net5.0\Conditionnals_Char.IsUpper.AssemblyInfo.cs
+C:\Users\anass\source\repos\Conditionnals_Char.IsUpper\Conditionnals_Char.IsUpper\obj\Debug\net5.0\Conditionnals_Char.IsUpper.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Conditionnals_Char.IsUpper\Conditionnals_Char.IsUpper\bin\Debug\net5.0\Conditionnals_Char.IsUpper.exe
+C:\Users\anass\source\repos\Conditionnals_Char.IsUpper\Conditionnals_Char.IsUpper\bin\Debug\net5.0\Conditionnals_Char.IsUpper.deps.json
+C:\Users\anass\source\repos\Conditionnals_Char.IsUpper\Conditionnals_Char.IsUpper\bin\Debug\net5.0\Conditionnals_Char.IsUpper.runtimeconfig.json
+C:\Users\anass\source\repos\Conditionnals_Char.IsUpper\Conditionnals_Char.IsUpper\bin\Debug\net5.0\Conditionnals_Char.IsUpper.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Conditionnals_Char.IsUpper\Conditionnals_Char.IsUpper\bin\Debug\net5.0\Conditionnals_Char.IsUpper.dll
+C:\Users\anass\source\repos\Conditionnals_Char.IsUpper\Conditionnals_Char.IsUpper\bin\Debug\net5.0\ref\Conditionnals_Char.IsUpper.dll
+C:\Users\anass\source\repos\Conditionnals_Char.IsUpper\Conditionnals_Char.IsUpper\bin\Debug\net5.0\Conditionnals_Char.IsUpper.pdb
+C:\Users\anass\source\repos\Conditionnals_Char.IsUpper\Conditionnals_Char.IsUpper\obj\Debug\net5.0\Conditionnals_Char.IsUpper.dll
+C:\Users\anass\source\repos\Conditionnals_Char.IsUpper\Conditionnals_Char.IsUpper\obj\Debug\net5.0\ref\Conditionnals_Char.IsUpper.dll
+C:\Users\anass\source\repos\Conditionnals_Char.IsUpper\Conditionnals_Char.IsUpper\obj\Debug\net5.0\Conditionnals_Char.IsUpper.pdb
+C:\Users\anass\source\repos\Conditionnals_Char.IsUpper\Conditionnals_Char.IsUpper\obj\Debug\net5.0\Conditionnals_Char.IsUpper.genruntimeconfig.cache

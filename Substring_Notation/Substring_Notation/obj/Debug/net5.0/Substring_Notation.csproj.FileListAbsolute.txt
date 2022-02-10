@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Substring_Notation\Substring_Notation\bin\Debug\net5.0\Substring_Notation.exe
+C:\Users\anass\source\repos\Substring_Notation\Substring_Notation\bin\Debug\net5.0\Substring_Notation.deps.json
+C:\Users\anass\source\repos\Substring_Notation\Substring_Notation\bin\Debug\net5.0\Substring_Notation.runtimeconfig.json
+C:\Users\anass\source\repos\Substring_Notation\Substring_Notation\bin\Debug\net5.0\Substring_Notation.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Substring_Notation\Substring_Notation\bin\Debug\net5.0\Substring_Notation.dll
+C:\Users\anass\source\repos\Substring_Notation\Substring_Notation\bin\Debug\net5.0\ref\Substring_Notation.dll
+C:\Users\anass\source\repos\Substring_Notation\Substring_Notation\bin\Debug\net5.0\Substring_Notation.pdb
+C:\Users\anass\source\repos\Substring_Notation\Substring_Notation\obj\Debug\net5.0\Substring_Notation.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Substring_Notation\Substring_Notation\obj\Debug\net5.0\Substring_Notation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Substring_Notation\Substring_Notation\obj\Debug\net5.0\Substring_Notation.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Substring_Notation\Substring_Notation\obj\Debug\net5.0\Substring_Notation.AssemblyInfo.cs
+C:\Users\anass\source\repos\Substring_Notation\Substring_Notation\obj\Debug\net5.0\Substring_Notation.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Substring_Notation\Substring_Notation\obj\Debug\net5.0\Substring_Notation.dll
+C:\Users\anass\source\repos\Substring_Notation\Substring_Notation\obj\Debug\net5.0\ref\Substring_Notation.dll
+C:\Users\anass\source\repos\Substring_Notation\Substring_Notation\obj\Debug\net5.0\Substring_Notation.pdb
+C:\Users\anass\source\repos\Substring_Notation\Substring_Notation\obj\Debug\net5.0\Substring_Notation.genruntimeconfig.cache

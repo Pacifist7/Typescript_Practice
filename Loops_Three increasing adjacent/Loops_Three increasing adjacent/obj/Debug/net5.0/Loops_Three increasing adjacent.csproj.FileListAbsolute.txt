@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Loops_Three increasing adjacent\Loops_Three increasing adjacent\obj\Debug\net5.0\Loops_Three increasing adjacent.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Loops_Three increasing adjacent\Loops_Three increasing adjacent\obj\Debug\net5.0\Loops_Three increasing adjacent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Loops_Three increasing adjacent\Loops_Three increasing adjacent\obj\Debug\net5.0\Loops_Three increasing adjacent.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Loops_Three increasing adjacent\Loops_Three increasing adjacent\obj\Debug\net5.0\Loops_Three increasing adjacent.AssemblyInfo.cs
+C:\Users\anass\source\repos\Loops_Three increasing adjacent\Loops_Three increasing adjacent\obj\Debug\net5.0\Loops_Three increasing adjacent.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Loops_Three increasing adjacent\Loops_Three increasing adjacent\bin\Debug\net5.0\Loops_Three increasing adjacent.exe
+C:\Users\anass\source\repos\Loops_Three increasing adjacent\Loops_Three increasing adjacent\bin\Debug\net5.0\Loops_Three increasing adjacent.deps.json
+C:\Users\anass\source\repos\Loops_Three increasing adjacent\Loops_Three increasing adjacent\bin\Debug\net5.0\Loops_Three increasing adjacent.runtimeconfig.json
+C:\Users\anass\source\repos\Loops_Three increasing adjacent\Loops_Three increasing adjacent\bin\Debug\net5.0\Loops_Three increasing adjacent.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Loops_Three increasing adjacent\Loops_Three increasing adjacent\bin\Debug\net5.0\Loops_Three increasing adjacent.dll
+C:\Users\anass\source\repos\Loops_Three increasing adjacent\Loops_Three increasing adjacent\bin\Debug\net5.0\ref\Loops_Three increasing adjacent.dll
+C:\Users\anass\source\repos\Loops_Three increasing adjacent\Loops_Three increasing adjacent\bin\Debug\net5.0\Loops_Three increasing adjacent.pdb
+C:\Users\anass\source\repos\Loops_Three increasing adjacent\Loops_Three increasing adjacent\obj\Debug\net5.0\Loops_Three increasing adjacent.dll
+C:\Users\anass\source\repos\Loops_Three increasing adjacent\Loops_Three increasing adjacent\obj\Debug\net5.0\ref\Loops_Three increasing adjacent.dll
+C:\Users\anass\source\repos\Loops_Three increasing adjacent\Loops_Three increasing adjacent\obj\Debug\net5.0\Loops_Three increasing adjacent.pdb
+C:\Users\anass\source\repos\Loops_Three increasing adjacent\Loops_Three increasing adjacent\obj\Debug\net5.0\Loops_Three increasing adjacent.genruntimeconfig.cache

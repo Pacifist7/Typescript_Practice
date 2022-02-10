@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Loops_Multiplication\Loops_Multiplication\obj\Debug\net5.0\Loops_Multiplication.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Loops_Multiplication\Loops_Multiplication\obj\Debug\net5.0\Loops_Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Loops_Multiplication\Loops_Multiplication\obj\Debug\net5.0\Loops_Multiplication.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Loops_Multiplication\Loops_Multiplication\obj\Debug\net5.0\Loops_Multiplication.AssemblyInfo.cs
+C:\Users\anass\source\repos\Loops_Multiplication\Loops_Multiplication\obj\Debug\net5.0\Loops_Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Loops_Multiplication\Loops_Multiplication\bin\Debug\net5.0\Loops_Multiplication.exe
+C:\Users\anass\source\repos\Loops_Multiplication\Loops_Multiplication\bin\Debug\net5.0\Loops_Multiplication.deps.json
+C:\Users\anass\source\repos\Loops_Multiplication\Loops_Multiplication\bin\Debug\net5.0\Loops_Multiplication.runtimeconfig.json
+C:\Users\anass\source\repos\Loops_Multiplication\Loops_Multiplication\bin\Debug\net5.0\Loops_Multiplication.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Loops_Multiplication\Loops_Multiplication\bin\Debug\net5.0\Loops_Multiplication.dll
+C:\Users\anass\source\repos\Loops_Multiplication\Loops_Multiplication\bin\Debug\net5.0\ref\Loops_Multiplication.dll
+C:\Users\anass\source\repos\Loops_Multiplication\Loops_Multiplication\bin\Debug\net5.0\Loops_Multiplication.pdb
+C:\Users\anass\source\repos\Loops_Multiplication\Loops_Multiplication\obj\Debug\net5.0\Loops_Multiplication.dll
+C:\Users\anass\source\repos\Loops_Multiplication\Loops_Multiplication\obj\Debug\net5.0\ref\Loops_Multiplication.dll
+C:\Users\anass\source\repos\Loops_Multiplication\Loops_Multiplication\obj\Debug\net5.0\Loops_Multiplication.pdb
+C:\Users\anass\source\repos\Loops_Multiplication\Loops_Multiplication\obj\Debug\net5.0\Loops_Multiplication.genruntimeconfig.cache

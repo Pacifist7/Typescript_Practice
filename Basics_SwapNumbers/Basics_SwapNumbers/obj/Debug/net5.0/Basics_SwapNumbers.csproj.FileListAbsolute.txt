@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Basics_SwapNumbers\Basics_SwapNumbers\bin\Debug\net5.0\Basics_SwapNumbers.exe
+C:\Users\anass\source\repos\Basics_SwapNumbers\Basics_SwapNumbers\bin\Debug\net5.0\Basics_SwapNumbers.deps.json
+C:\Users\anass\source\repos\Basics_SwapNumbers\Basics_SwapNumbers\bin\Debug\net5.0\Basics_SwapNumbers.runtimeconfig.json
+C:\Users\anass\source\repos\Basics_SwapNumbers\Basics_SwapNumbers\bin\Debug\net5.0\Basics_SwapNumbers.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Basics_SwapNumbers\Basics_SwapNumbers\bin\Debug\net5.0\Basics_SwapNumbers.dll
+C:\Users\anass\source\repos\Basics_SwapNumbers\Basics_SwapNumbers\bin\Debug\net5.0\ref\Basics_SwapNumbers.dll
+C:\Users\anass\source\repos\Basics_SwapNumbers\Basics_SwapNumbers\bin\Debug\net5.0\Basics_SwapNumbers.pdb
+C:\Users\anass\source\repos\Basics_SwapNumbers\Basics_SwapNumbers\obj\Debug\net5.0\Basics_SwapNumbers.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Basics_SwapNumbers\Basics_SwapNumbers\obj\Debug\net5.0\Basics_SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Basics_SwapNumbers\Basics_SwapNumbers\obj\Debug\net5.0\Basics_SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Basics_SwapNumbers\Basics_SwapNumbers\obj\Debug\net5.0\Basics_SwapNumbers.AssemblyInfo.cs
+C:\Users\anass\source\repos\Basics_SwapNumbers\Basics_SwapNumbers\obj\Debug\net5.0\Basics_SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Basics_SwapNumbers\Basics_SwapNumbers\obj\Debug\net5.0\Basics_SwapNumbers.dll
+C:\Users\anass\source\repos\Basics_SwapNumbers\Basics_SwapNumbers\obj\Debug\net5.0\ref\Basics_SwapNumbers.dll
+C:\Users\anass\source\repos\Basics_SwapNumbers\Basics_SwapNumbers\obj\Debug\net5.0\Basics_SwapNumbers.pdb
+C:\Users\anass\source\repos\Basics_SwapNumbers\Basics_SwapNumbers\obj\Debug\net5.0\Basics_SwapNumbers.genruntimeconfig.cache

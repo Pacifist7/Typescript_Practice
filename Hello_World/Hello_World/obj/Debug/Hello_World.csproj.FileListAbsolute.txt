@@ -1,0 +1,2 @@
+C:\Users\anass\source\repos\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.CoreCompileInputs.cache

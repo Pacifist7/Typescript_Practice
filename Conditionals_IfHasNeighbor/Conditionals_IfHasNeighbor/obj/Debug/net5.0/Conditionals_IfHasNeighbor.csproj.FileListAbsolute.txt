@@ -1,0 +1,15 @@
+C:\Users\anass\source\repos\Conditionals_IfHasNeighbor\Conditionals_IfHasNeighbor\bin\Debug\net5.0\Conditionals_IfHasNeighbor.exe
+C:\Users\anass\source\repos\Conditionals_IfHasNeighbor\Conditionals_IfHasNeighbor\bin\Debug\net5.0\Conditionals_IfHasNeighbor.deps.json
+C:\Users\anass\source\repos\Conditionals_IfHasNeighbor\Conditionals_IfHasNeighbor\bin\Debug\net5.0\Conditionals_IfHasNeighbor.runtimeconfig.json
+C:\Users\anass\source\repos\Conditionals_IfHasNeighbor\Conditionals_IfHasNeighbor\bin\Debug\net5.0\Conditionals_IfHasNeighbor.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Conditionals_IfHasNeighbor\Conditionals_IfHasNeighbor\bin\Debug\net5.0\Conditionals_IfHasNeighbor.dll
+C:\Users\anass\source\repos\Conditionals_IfHasNeighbor\Conditionals_IfHasNeighbor\bin\Debug\net5.0\ref\Conditionals_IfHasNeighbor.dll
+C:\Users\anass\source\repos\Conditionals_IfHasNeighbor\Conditionals_IfHasNeighbor\bin\Debug\net5.0\Conditionals_IfHasNeighbor.pdb
+C:\Users\anass\source\repos\Conditionals_IfHasNeighbor\Conditionals_IfHasNeighbor\obj\Debug\net5.0\Conditionals_IfHasNeighbor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Conditionals_IfHasNeighbor\Conditionals_IfHasNeighbor\obj\Debug\net5.0\Conditionals_IfHasNeighbor.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Conditionals_IfHasNeighbor\Conditionals_IfHasNeighbor\obj\Debug\net5.0\Conditionals_IfHasNeighbor.AssemblyInfo.cs
+C:\Users\anass\source\repos\Conditionals_IfHasNeighbor\Conditionals_IfHasNeighbor\obj\Debug\net5.0\Conditionals_IfHasNeighbor.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Conditionals_IfHasNeighbor\Conditionals_IfHasNeighbor\obj\Debug\net5.0\Conditionals_IfHasNeighbor.dll
+C:\Users\anass\source\repos\Conditionals_IfHasNeighbor\Conditionals_IfHasNeighbor\obj\Debug\net5.0\ref\Conditionals_IfHasNeighbor.dll
+C:\Users\anass\source\repos\Conditionals_IfHasNeighbor\Conditionals_IfHasNeighbor\obj\Debug\net5.0\Conditionals_IfHasNeighbor.pdb
+C:\Users\anass\source\repos\Conditionals_IfHasNeighbor\Conditionals_IfHasNeighbor\obj\Debug\net5.0\Conditionals_IfHasNeighbor.genruntimeconfig.cache

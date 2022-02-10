@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\GrandCircus\GrandCircus\bin\Debug\net5.0\GrandCircus.exe
+C:\Users\anass\source\repos\GrandCircus\GrandCircus\bin\Debug\net5.0\GrandCircus.deps.json
+C:\Users\anass\source\repos\GrandCircus\GrandCircus\bin\Debug\net5.0\GrandCircus.runtimeconfig.json
+C:\Users\anass\source\repos\GrandCircus\GrandCircus\bin\Debug\net5.0\GrandCircus.runtimeconfig.dev.json
+C:\Users\anass\source\repos\GrandCircus\GrandCircus\bin\Debug\net5.0\GrandCircus.dll
+C:\Users\anass\source\repos\GrandCircus\GrandCircus\bin\Debug\net5.0\ref\GrandCircus.dll
+C:\Users\anass\source\repos\GrandCircus\GrandCircus\bin\Debug\net5.0\GrandCircus.pdb
+C:\Users\anass\source\repos\GrandCircus\GrandCircus\obj\Debug\net5.0\GrandCircus.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\GrandCircus\GrandCircus\obj\Debug\net5.0\GrandCircus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\GrandCircus\GrandCircus\obj\Debug\net5.0\GrandCircus.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\GrandCircus\GrandCircus\obj\Debug\net5.0\GrandCircus.AssemblyInfo.cs
+C:\Users\anass\source\repos\GrandCircus\GrandCircus\obj\Debug\net5.0\GrandCircus.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\GrandCircus\GrandCircus\obj\Debug\net5.0\GrandCircus.dll
+C:\Users\anass\source\repos\GrandCircus\GrandCircus\obj\Debug\net5.0\ref\GrandCircus.dll
+C:\Users\anass\source\repos\GrandCircus\GrandCircus\obj\Debug\net5.0\GrandCircus.pdb
+C:\Users\anass\source\repos\GrandCircus\GrandCircus\obj\Debug\net5.0\GrandCircus.genruntimeconfig.cache

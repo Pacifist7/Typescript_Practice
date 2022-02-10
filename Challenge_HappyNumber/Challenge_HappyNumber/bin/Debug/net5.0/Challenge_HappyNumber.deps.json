@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Challenge_HappyNumber/1.0.0": {
+        "runtime": {
+          "Challenge_HappyNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Challenge_HappyNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Practice.Elementary_Operations\Practice.Elementary_Operations\obj\Debug\net5.0\Practice.Elementary_Operations.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Practice.Elementary_Operations\Practice.Elementary_Operations\obj\Debug\net5.0\Practice.Elementary_Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Practice.Elementary_Operations\Practice.Elementary_Operations\obj\Debug\net5.0\Practice.Elementary_Operations.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Practice.Elementary_Operations\Practice.Elementary_Operations\obj\Debug\net5.0\Practice.Elementary_Operations.AssemblyInfo.cs
+C:\Users\anass\source\repos\Practice.Elementary_Operations\Practice.Elementary_Operations\obj\Debug\net5.0\Practice.Elementary_Operations.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Practice.Elementary_Operations\Practice.Elementary_Operations\bin\Debug\net5.0\Practice.Elementary_Operations.exe
+C:\Users\anass\source\repos\Practice.Elementary_Operations\Practice.Elementary_Operations\bin\Debug\net5.0\Practice.Elementary_Operations.deps.json
+C:\Users\anass\source\repos\Practice.Elementary_Operations\Practice.Elementary_Operations\bin\Debug\net5.0\Practice.Elementary_Operations.runtimeconfig.json
+C:\Users\anass\source\repos\Practice.Elementary_Operations\Practice.Elementary_Operations\bin\Debug\net5.0\Practice.Elementary_Operations.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Practice.Elementary_Operations\Practice.Elementary_Operations\bin\Debug\net5.0\Practice.Elementary_Operations.dll
+C:\Users\anass\source\repos\Practice.Elementary_Operations\Practice.Elementary_Operations\bin\Debug\net5.0\ref\Practice.Elementary_Operations.dll
+C:\Users\anass\source\repos\Practice.Elementary_Operations\Practice.Elementary_Operations\bin\Debug\net5.0\Practice.Elementary_Operations.pdb
+C:\Users\anass\source\repos\Practice.Elementary_Operations\Practice.Elementary_Operations\obj\Debug\net5.0\Practice.Elementary_Operations.dll
+C:\Users\anass\source\repos\Practice.Elementary_Operations\Practice.Elementary_Operations\obj\Debug\net5.0\ref\Practice.Elementary_Operations.dll
+C:\Users\anass\source\repos\Practice.Elementary_Operations\Practice.Elementary_Operations\obj\Debug\net5.0\Practice.Elementary_Operations.pdb
+C:\Users\anass\source\repos\Practice.Elementary_Operations\Practice.Elementary_Operations\obj\Debug\net5.0\Practice.Elementary_Operations.genruntimeconfig.cache

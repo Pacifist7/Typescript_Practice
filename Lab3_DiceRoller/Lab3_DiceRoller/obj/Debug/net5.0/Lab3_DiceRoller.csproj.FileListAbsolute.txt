@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Lab3_DiceRoller\Lab3_DiceRoller\bin\Debug\net5.0\Lab3_DiceRoller.exe
+C:\Users\anass\source\repos\Lab3_DiceRoller\Lab3_DiceRoller\bin\Debug\net5.0\Lab3_DiceRoller.deps.json
+C:\Users\anass\source\repos\Lab3_DiceRoller\Lab3_DiceRoller\bin\Debug\net5.0\Lab3_DiceRoller.runtimeconfig.json
+C:\Users\anass\source\repos\Lab3_DiceRoller\Lab3_DiceRoller\bin\Debug\net5.0\Lab3_DiceRoller.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Lab3_DiceRoller\Lab3_DiceRoller\bin\Debug\net5.0\Lab3_DiceRoller.dll
+C:\Users\anass\source\repos\Lab3_DiceRoller\Lab3_DiceRoller\bin\Debug\net5.0\ref\Lab3_DiceRoller.dll
+C:\Users\anass\source\repos\Lab3_DiceRoller\Lab3_DiceRoller\bin\Debug\net5.0\Lab3_DiceRoller.pdb
+C:\Users\anass\source\repos\Lab3_DiceRoller\Lab3_DiceRoller\obj\Debug\net5.0\Lab3_DiceRoller.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Lab3_DiceRoller\Lab3_DiceRoller\obj\Debug\net5.0\Lab3_DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Lab3_DiceRoller\Lab3_DiceRoller\obj\Debug\net5.0\Lab3_DiceRoller.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Lab3_DiceRoller\Lab3_DiceRoller\obj\Debug\net5.0\Lab3_DiceRoller.AssemblyInfo.cs
+C:\Users\anass\source\repos\Lab3_DiceRoller\Lab3_DiceRoller\obj\Debug\net5.0\Lab3_DiceRoller.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Lab3_DiceRoller\Lab3_DiceRoller\obj\Debug\net5.0\Lab3_DiceRoller.dll
+C:\Users\anass\source\repos\Lab3_DiceRoller\Lab3_DiceRoller\obj\Debug\net5.0\ref\Lab3_DiceRoller.dll
+C:\Users\anass\source\repos\Lab3_DiceRoller\Lab3_DiceRoller\obj\Debug\net5.0\Lab3_DiceRoller.pdb
+C:\Users\anass\source\repos\Lab3_DiceRoller\Lab3_DiceRoller\obj\Debug\net5.0\Lab3_DiceRoller.genruntimeconfig.cache

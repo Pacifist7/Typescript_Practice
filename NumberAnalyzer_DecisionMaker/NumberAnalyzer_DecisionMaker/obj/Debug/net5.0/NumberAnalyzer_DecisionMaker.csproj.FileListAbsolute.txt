@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\NumberAnalyzer_DecisionMaker\NumberAnalyzer_DecisionMaker\bin\Debug\net5.0\NumberAnalyzer_DecisionMaker.exe
+C:\Users\anass\source\repos\NumberAnalyzer_DecisionMaker\NumberAnalyzer_DecisionMaker\bin\Debug\net5.0\NumberAnalyzer_DecisionMaker.deps.json
+C:\Users\anass\source\repos\NumberAnalyzer_DecisionMaker\NumberAnalyzer_DecisionMaker\bin\Debug\net5.0\NumberAnalyzer_DecisionMaker.runtimeconfig.json
+C:\Users\anass\source\repos\NumberAnalyzer_DecisionMaker\NumberAnalyzer_DecisionMaker\bin\Debug\net5.0\NumberAnalyzer_DecisionMaker.runtimeconfig.dev.json
+C:\Users\anass\source\repos\NumberAnalyzer_DecisionMaker\NumberAnalyzer_DecisionMaker\bin\Debug\net5.0\NumberAnalyzer_DecisionMaker.dll
+C:\Users\anass\source\repos\NumberAnalyzer_DecisionMaker\NumberAnalyzer_DecisionMaker\bin\Debug\net5.0\ref\NumberAnalyzer_DecisionMaker.dll
+C:\Users\anass\source\repos\NumberAnalyzer_DecisionMaker\NumberAnalyzer_DecisionMaker\bin\Debug\net5.0\NumberAnalyzer_DecisionMaker.pdb
+C:\Users\anass\source\repos\NumberAnalyzer_DecisionMaker\NumberAnalyzer_DecisionMaker\obj\Debug\net5.0\NumberAnalyzer_DecisionMaker.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\NumberAnalyzer_DecisionMaker\NumberAnalyzer_DecisionMaker\obj\Debug\net5.0\NumberAnalyzer_DecisionMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\NumberAnalyzer_DecisionMaker\NumberAnalyzer_DecisionMaker\obj\Debug\net5.0\NumberAnalyzer_DecisionMaker.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\NumberAnalyzer_DecisionMaker\NumberAnalyzer_DecisionMaker\obj\Debug\net5.0\NumberAnalyzer_DecisionMaker.AssemblyInfo.cs
+C:\Users\anass\source\repos\NumberAnalyzer_DecisionMaker\NumberAnalyzer_DecisionMaker\obj\Debug\net5.0\NumberAnalyzer_DecisionMaker.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\NumberAnalyzer_DecisionMaker\NumberAnalyzer_DecisionMaker\obj\Debug\net5.0\NumberAnalyzer_DecisionMaker.dll
+C:\Users\anass\source\repos\NumberAnalyzer_DecisionMaker\NumberAnalyzer_DecisionMaker\obj\Debug\net5.0\ref\NumberAnalyzer_DecisionMaker.dll
+C:\Users\anass\source\repos\NumberAnalyzer_DecisionMaker\NumberAnalyzer_DecisionMaker\obj\Debug\net5.0\NumberAnalyzer_DecisionMaker.pdb
+C:\Users\anass\source\repos\NumberAnalyzer_DecisionMaker\NumberAnalyzer_DecisionMaker\obj\Debug\net5.0\NumberAnalyzer_DecisionMaker.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Strings_CheckBracketSentences\Strings_CheckBracketSentences\bin\Debug\net5.0\Strings_CheckBracketSentences.exe
+C:\Users\anass\source\repos\Strings_CheckBracketSentences\Strings_CheckBracketSentences\bin\Debug\net5.0\Strings_CheckBracketSentences.deps.json
+C:\Users\anass\source\repos\Strings_CheckBracketSentences\Strings_CheckBracketSentences\bin\Debug\net5.0\Strings_CheckBracketSentences.runtimeconfig.json
+C:\Users\anass\source\repos\Strings_CheckBracketSentences\Strings_CheckBracketSentences\bin\Debug\net5.0\Strings_CheckBracketSentences.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Strings_CheckBracketSentences\Strings_CheckBracketSentences\bin\Debug\net5.0\Strings_CheckBracketSentences.dll
+C:\Users\anass\source\repos\Strings_CheckBracketSentences\Strings_CheckBracketSentences\bin\Debug\net5.0\ref\Strings_CheckBracketSentences.dll
+C:\Users\anass\source\repos\Strings_CheckBracketSentences\Strings_CheckBracketSentences\bin\Debug\net5.0\Strings_CheckBracketSentences.pdb
+C:\Users\anass\source\repos\Strings_CheckBracketSentences\Strings_CheckBracketSentences\obj\Debug\net5.0\Strings_CheckBracketSentences.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Strings_CheckBracketSentences\Strings_CheckBracketSentences\obj\Debug\net5.0\Strings_CheckBracketSentences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Strings_CheckBracketSentences\Strings_CheckBracketSentences\obj\Debug\net5.0\Strings_CheckBracketSentences.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Strings_CheckBracketSentences\Strings_CheckBracketSentences\obj\Debug\net5.0\Strings_CheckBracketSentences.AssemblyInfo.cs
+C:\Users\anass\source\repos\Strings_CheckBracketSentences\Strings_CheckBracketSentences\obj\Debug\net5.0\Strings_CheckBracketSentences.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Strings_CheckBracketSentences\Strings_CheckBracketSentences\obj\Debug\net5.0\Strings_CheckBracketSentences.dll
+C:\Users\anass\source\repos\Strings_CheckBracketSentences\Strings_CheckBracketSentences\obj\Debug\net5.0\ref\Strings_CheckBracketSentences.dll
+C:\Users\anass\source\repos\Strings_CheckBracketSentences\Strings_CheckBracketSentences\obj\Debug\net5.0\Strings_CheckBracketSentences.pdb
+C:\Users\anass\source\repos\Strings_CheckBracketSentences\Strings_CheckBracketSentences\obj\Debug\net5.0\Strings_CheckBracketSentences.genruntimeconfig.cache

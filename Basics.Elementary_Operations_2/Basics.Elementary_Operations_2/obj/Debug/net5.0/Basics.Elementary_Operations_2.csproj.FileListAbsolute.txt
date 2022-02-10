@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Basics.Elementary_Operations_2\Basics.Elementary_Operations_2\obj\Debug\net5.0\Basics.Elementary_Operations_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Basics.Elementary_Operations_2\Basics.Elementary_Operations_2\obj\Debug\net5.0\Basics.Elementary_Operations_2.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Basics.Elementary_Operations_2\Basics.Elementary_Operations_2\obj\Debug\net5.0\Basics.Elementary_Operations_2.AssemblyInfo.cs
+C:\Users\anass\source\repos\Basics.Elementary_Operations_2\Basics.Elementary_Operations_2\obj\Debug\net5.0\Basics.Elementary_Operations_2.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Basics.Elementary_Operations_2\Basics.Elementary_Operations_2\bin\Debug\net5.0\Basics.Elementary_Operations_2.exe
+C:\Users\anass\source\repos\Basics.Elementary_Operations_2\Basics.Elementary_Operations_2\bin\Debug\net5.0\Basics.Elementary_Operations_2.deps.json
+C:\Users\anass\source\repos\Basics.Elementary_Operations_2\Basics.Elementary_Operations_2\bin\Debug\net5.0\Basics.Elementary_Operations_2.runtimeconfig.json
+C:\Users\anass\source\repos\Basics.Elementary_Operations_2\Basics.Elementary_Operations_2\bin\Debug\net5.0\Basics.Elementary_Operations_2.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Basics.Elementary_Operations_2\Basics.Elementary_Operations_2\bin\Debug\net5.0\Basics.Elementary_Operations_2.dll
+C:\Users\anass\source\repos\Basics.Elementary_Operations_2\Basics.Elementary_Operations_2\bin\Debug\net5.0\ref\Basics.Elementary_Operations_2.dll
+C:\Users\anass\source\repos\Basics.Elementary_Operations_2\Basics.Elementary_Operations_2\bin\Debug\net5.0\Basics.Elementary_Operations_2.pdb
+C:\Users\anass\source\repos\Basics.Elementary_Operations_2\Basics.Elementary_Operations_2\obj\Debug\net5.0\Basics.Elementary_Operations_2.dll
+C:\Users\anass\source\repos\Basics.Elementary_Operations_2\Basics.Elementary_Operations_2\obj\Debug\net5.0\ref\Basics.Elementary_Operations_2.dll
+C:\Users\anass\source\repos\Basics.Elementary_Operations_2\Basics.Elementary_Operations_2\obj\Debug\net5.0\Basics.Elementary_Operations_2.pdb
+C:\Users\anass\source\repos\Basics.Elementary_Operations_2\Basics.Elementary_Operations_2\obj\Debug\net5.0\Basics.Elementary_Operations_2.genruntimeconfig.cache
+C:\Users\anass\source\repos\Basics.Elementary_Operations_2\Basics.Elementary_Operations_2\obj\Debug\net5.0\Basics.Elementary_Operations_2.csproj.AssemblyReference.cache

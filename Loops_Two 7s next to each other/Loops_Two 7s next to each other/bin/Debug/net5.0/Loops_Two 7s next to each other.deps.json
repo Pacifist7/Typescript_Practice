@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Loops_Two 7s next to each other/1.0.0": {
+        "runtime": {
+          "Loops_Two 7s next to each other.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loops_Two 7s next to each other/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\anass\source\repos\Loops_FractionsSum\Loops_FractionsSum\bin\Debug\net5.0\Loops_FractionsSum.exe
+C:\Users\anass\source\repos\Loops_FractionsSum\Loops_FractionsSum\bin\Debug\net5.0\Loops_FractionsSum.deps.json
+C:\Users\anass\source\repos\Loops_FractionsSum\Loops_FractionsSum\bin\Debug\net5.0\Loops_FractionsSum.runtimeconfig.json
+C:\Users\anass\source\repos\Loops_FractionsSum\Loops_FractionsSum\bin\Debug\net5.0\Loops_FractionsSum.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Loops_FractionsSum\Loops_FractionsSum\bin\Debug\net5.0\Loops_FractionsSum.dll
+C:\Users\anass\source\repos\Loops_FractionsSum\Loops_FractionsSum\bin\Debug\net5.0\ref\Loops_FractionsSum.dll
+C:\Users\anass\source\repos\Loops_FractionsSum\Loops_FractionsSum\bin\Debug\net5.0\Loops_FractionsSum.pdb
+C:\Users\anass\source\repos\Loops_FractionsSum\Loops_FractionsSum\obj\Debug\net5.0\Loops_FractionsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Loops_FractionsSum\Loops_FractionsSum\obj\Debug\net5.0\Loops_FractionsSum.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Loops_FractionsSum\Loops_FractionsSum\obj\Debug\net5.0\Loops_FractionsSum.AssemblyInfo.cs
+C:\Users\anass\source\repos\Loops_FractionsSum\Loops_FractionsSum\obj\Debug\net5.0\Loops_FractionsSum.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Loops_FractionsSum\Loops_FractionsSum\obj\Debug\net5.0\Loops_FractionsSum.dll
+C:\Users\anass\source\repos\Loops_FractionsSum\Loops_FractionsSum\obj\Debug\net5.0\ref\Loops_FractionsSum.dll
+C:\Users\anass\source\repos\Loops_FractionsSum\Loops_FractionsSum\obj\Debug\net5.0\Loops_FractionsSum.pdb
+C:\Users\anass\source\repos\Loops_FractionsSum\Loops_FractionsSum\obj\Debug\net5.0\Loops_FractionsSum.genruntimeconfig.cache

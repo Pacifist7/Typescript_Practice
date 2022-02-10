@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Conditionnals_GreaterThanThirdOne/1.0.0": {
+        "runtime": {
+          "Conditionnals_GreaterThanThirdOne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conditionnals_GreaterThanThirdOne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\anass\source\repos\Basics_Cube\Basics_Cube\obj\Debug\net5.0\Basics_Cube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Basics_Cube\Basics_Cube\obj\Debug\net5.0\Basics_Cube.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Basics_Cube\Basics_Cube\obj\Debug\net5.0\Basics_Cube.AssemblyInfo.cs
+C:\Users\anass\source\repos\Basics_Cube\Basics_Cube\obj\Debug\net5.0\Basics_Cube.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Basics_Cube\Basics_Cube\bin\Debug\net5.0\Basics_Cube.exe
+C:\Users\anass\source\repos\Basics_Cube\Basics_Cube\bin\Debug\net5.0\Basics_Cube.deps.json
+C:\Users\anass\source\repos\Basics_Cube\Basics_Cube\bin\Debug\net5.0\Basics_Cube.runtimeconfig.json
+C:\Users\anass\source\repos\Basics_Cube\Basics_Cube\bin\Debug\net5.0\Basics_Cube.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Basics_Cube\Basics_Cube\bin\Debug\net5.0\Basics_Cube.dll
+C:\Users\anass\source\repos\Basics_Cube\Basics_Cube\bin\Debug\net5.0\ref\Basics_Cube.dll
+C:\Users\anass\source\repos\Basics_Cube\Basics_Cube\bin\Debug\net5.0\Basics_Cube.pdb
+C:\Users\anass\source\repos\Basics_Cube\Basics_Cube\obj\Debug\net5.0\Basics_Cube.dll
+C:\Users\anass\source\repos\Basics_Cube\Basics_Cube\obj\Debug\net5.0\ref\Basics_Cube.dll
+C:\Users\anass\source\repos\Basics_Cube\Basics_Cube\obj\Debug\net5.0\Basics_Cube.pdb
+C:\Users\anass\source\repos\Basics_Cube\Basics_Cube\obj\Debug\net5.0\Basics_Cube.genruntimeconfig.cache

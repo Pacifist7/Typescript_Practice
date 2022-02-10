@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Loops_SortArrayAscending\Loops_SortArrayAscending\bin\Debug\net5.0\Loops_SortArrayAscending.exe
+C:\Users\anass\source\repos\Loops_SortArrayAscending\Loops_SortArrayAscending\bin\Debug\net5.0\Loops_SortArrayAscending.deps.json
+C:\Users\anass\source\repos\Loops_SortArrayAscending\Loops_SortArrayAscending\bin\Debug\net5.0\Loops_SortArrayAscending.runtimeconfig.json
+C:\Users\anass\source\repos\Loops_SortArrayAscending\Loops_SortArrayAscending\bin\Debug\net5.0\Loops_SortArrayAscending.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Loops_SortArrayAscending\Loops_SortArrayAscending\bin\Debug\net5.0\Loops_SortArrayAscending.dll
+C:\Users\anass\source\repos\Loops_SortArrayAscending\Loops_SortArrayAscending\bin\Debug\net5.0\ref\Loops_SortArrayAscending.dll
+C:\Users\anass\source\repos\Loops_SortArrayAscending\Loops_SortArrayAscending\bin\Debug\net5.0\Loops_SortArrayAscending.pdb
+C:\Users\anass\source\repos\Loops_SortArrayAscending\Loops_SortArrayAscending\obj\Debug\net5.0\Loops_SortArrayAscending.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Loops_SortArrayAscending\Loops_SortArrayAscending\obj\Debug\net5.0\Loops_SortArrayAscending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Loops_SortArrayAscending\Loops_SortArrayAscending\obj\Debug\net5.0\Loops_SortArrayAscending.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Loops_SortArrayAscending\Loops_SortArrayAscending\obj\Debug\net5.0\Loops_SortArrayAscending.AssemblyInfo.cs
+C:\Users\anass\source\repos\Loops_SortArrayAscending\Loops_SortArrayAscending\obj\Debug\net5.0\Loops_SortArrayAscending.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Loops_SortArrayAscending\Loops_SortArrayAscending\obj\Debug\net5.0\Loops_SortArrayAscending.dll
+C:\Users\anass\source\repos\Loops_SortArrayAscending\Loops_SortArrayAscending\obj\Debug\net5.0\ref\Loops_SortArrayAscending.dll
+C:\Users\anass\source\repos\Loops_SortArrayAscending\Loops_SortArrayAscending\obj\Debug\net5.0\Loops_SortArrayAscending.pdb
+C:\Users\anass\source\repos\Loops_SortArrayAscending\Loops_SortArrayAscending\obj\Debug\net5.0\Loops_SortArrayAscending.genruntimeconfig.cache

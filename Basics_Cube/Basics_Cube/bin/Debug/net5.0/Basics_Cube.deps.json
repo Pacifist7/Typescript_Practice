@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Basics_Cube/1.0.0": {
+        "runtime": {
+          "Basics_Cube.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Basics_Cube/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

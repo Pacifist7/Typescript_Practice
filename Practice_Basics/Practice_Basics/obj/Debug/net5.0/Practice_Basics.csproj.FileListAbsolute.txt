@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Practice_Basics\Practice_Basics\bin\Debug\net5.0\Practice_Basics.exe
+C:\Users\anass\source\repos\Practice_Basics\Practice_Basics\bin\Debug\net5.0\Practice_Basics.deps.json
+C:\Users\anass\source\repos\Practice_Basics\Practice_Basics\bin\Debug\net5.0\Practice_Basics.runtimeconfig.json
+C:\Users\anass\source\repos\Practice_Basics\Practice_Basics\bin\Debug\net5.0\Practice_Basics.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Practice_Basics\Practice_Basics\bin\Debug\net5.0\Practice_Basics.dll
+C:\Users\anass\source\repos\Practice_Basics\Practice_Basics\bin\Debug\net5.0\ref\Practice_Basics.dll
+C:\Users\anass\source\repos\Practice_Basics\Practice_Basics\bin\Debug\net5.0\Practice_Basics.pdb
+C:\Users\anass\source\repos\Practice_Basics\Practice_Basics\obj\Debug\net5.0\Practice_Basics.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Practice_Basics\Practice_Basics\obj\Debug\net5.0\Practice_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Practice_Basics\Practice_Basics\obj\Debug\net5.0\Practice_Basics.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Practice_Basics\Practice_Basics\obj\Debug\net5.0\Practice_Basics.AssemblyInfo.cs
+C:\Users\anass\source\repos\Practice_Basics\Practice_Basics\obj\Debug\net5.0\Practice_Basics.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Practice_Basics\Practice_Basics\obj\Debug\net5.0\Practice_Basics.dll
+C:\Users\anass\source\repos\Practice_Basics\Practice_Basics\obj\Debug\net5.0\ref\Practice_Basics.dll
+C:\Users\anass\source\repos\Practice_Basics\Practice_Basics\obj\Debug\net5.0\Practice_Basics.pdb
+C:\Users\anass\source\repos\Practice_Basics\Practice_Basics\obj\Debug\net5.0\Practice_Basics.genruntimeconfig.cache

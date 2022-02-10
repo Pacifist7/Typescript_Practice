@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Conditionnals_Char.IsUpper/1.0.0": {
+        "runtime": {
+          "Conditionnals_Char.IsUpper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conditionnals_Char.IsUpper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

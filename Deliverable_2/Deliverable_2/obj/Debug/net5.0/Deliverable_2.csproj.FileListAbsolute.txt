@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Deliverable_2\Deliverable_2\bin\Debug\net5.0\Deliverable_2.exe
+C:\Users\anass\source\repos\Deliverable_2\Deliverable_2\bin\Debug\net5.0\Deliverable_2.deps.json
+C:\Users\anass\source\repos\Deliverable_2\Deliverable_2\bin\Debug\net5.0\Deliverable_2.runtimeconfig.json
+C:\Users\anass\source\repos\Deliverable_2\Deliverable_2\bin\Debug\net5.0\Deliverable_2.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Deliverable_2\Deliverable_2\bin\Debug\net5.0\Deliverable_2.dll
+C:\Users\anass\source\repos\Deliverable_2\Deliverable_2\bin\Debug\net5.0\ref\Deliverable_2.dll
+C:\Users\anass\source\repos\Deliverable_2\Deliverable_2\bin\Debug\net5.0\Deliverable_2.pdb
+C:\Users\anass\source\repos\Deliverable_2\Deliverable_2\obj\Debug\net5.0\Deliverable_2.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Deliverable_2\Deliverable_2\obj\Debug\net5.0\Deliverable_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Deliverable_2\Deliverable_2\obj\Debug\net5.0\Deliverable_2.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Deliverable_2\Deliverable_2\obj\Debug\net5.0\Deliverable_2.AssemblyInfo.cs
+C:\Users\anass\source\repos\Deliverable_2\Deliverable_2\obj\Debug\net5.0\Deliverable_2.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Deliverable_2\Deliverable_2\obj\Debug\net5.0\Deliverable_2.dll
+C:\Users\anass\source\repos\Deliverable_2\Deliverable_2\obj\Debug\net5.0\ref\Deliverable_2.dll
+C:\Users\anass\source\repos\Deliverable_2\Deliverable_2\obj\Debug\net5.0\Deliverable_2.pdb
+C:\Users\anass\source\repos\Deliverable_2\Deliverable_2\obj\Debug\net5.0\Deliverable_2.genruntimeconfig.cache

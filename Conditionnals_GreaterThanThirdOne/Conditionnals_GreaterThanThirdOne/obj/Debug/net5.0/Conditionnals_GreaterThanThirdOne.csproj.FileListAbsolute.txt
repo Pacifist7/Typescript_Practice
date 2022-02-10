@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Conditionnals_GreaterThanThirdOne\Conditionnals_GreaterThanThirdOne\bin\Debug\net5.0\Conditionnals_GreaterThanThirdOne.exe
+C:\Users\anass\source\repos\Conditionnals_GreaterThanThirdOne\Conditionnals_GreaterThanThirdOne\bin\Debug\net5.0\Conditionnals_GreaterThanThirdOne.deps.json
+C:\Users\anass\source\repos\Conditionnals_GreaterThanThirdOne\Conditionnals_GreaterThanThirdOne\bin\Debug\net5.0\Conditionnals_GreaterThanThirdOne.runtimeconfig.json
+C:\Users\anass\source\repos\Conditionnals_GreaterThanThirdOne\Conditionnals_GreaterThanThirdOne\bin\Debug\net5.0\Conditionnals_GreaterThanThirdOne.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Conditionnals_GreaterThanThirdOne\Conditionnals_GreaterThanThirdOne\bin\Debug\net5.0\Conditionnals_GreaterThanThirdOne.dll
+C:\Users\anass\source\repos\Conditionnals_GreaterThanThirdOne\Conditionnals_GreaterThanThirdOne\bin\Debug\net5.0\ref\Conditionnals_GreaterThanThirdOne.dll
+C:\Users\anass\source\repos\Conditionnals_GreaterThanThirdOne\Conditionnals_GreaterThanThirdOne\bin\Debug\net5.0\Conditionnals_GreaterThanThirdOne.pdb
+C:\Users\anass\source\repos\Conditionnals_GreaterThanThirdOne\Conditionnals_GreaterThanThirdOne\obj\Debug\net5.0\Conditionnals_GreaterThanThirdOne.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Conditionnals_GreaterThanThirdOne\Conditionnals_GreaterThanThirdOne\obj\Debug\net5.0\Conditionnals_GreaterThanThirdOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Conditionnals_GreaterThanThirdOne\Conditionnals_GreaterThanThirdOne\obj\Debug\net5.0\Conditionnals_GreaterThanThirdOne.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Conditionnals_GreaterThanThirdOne\Conditionnals_GreaterThanThirdOne\obj\Debug\net5.0\Conditionnals_GreaterThanThirdOne.AssemblyInfo.cs
+C:\Users\anass\source\repos\Conditionnals_GreaterThanThirdOne\Conditionnals_GreaterThanThirdOne\obj\Debug\net5.0\Conditionnals_GreaterThanThirdOne.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Conditionnals_GreaterThanThirdOne\Conditionnals_GreaterThanThirdOne\obj\Debug\net5.0\Conditionnals_GreaterThanThirdOne.dll
+C:\Users\anass\source\repos\Conditionnals_GreaterThanThirdOne\Conditionnals_GreaterThanThirdOne\obj\Debug\net5.0\ref\Conditionnals_GreaterThanThirdOne.dll
+C:\Users\anass\source\repos\Conditionnals_GreaterThanThirdOne\Conditionnals_GreaterThanThirdOne\obj\Debug\net5.0\Conditionnals_GreaterThanThirdOne.pdb
+C:\Users\anass\source\repos\Conditionnals_GreaterThanThirdOne\Conditionnals_GreaterThanThirdOne\obj\Debug\net5.0\Conditionnals_GreaterThanThirdOne.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Loops_BiggestNumber\Loops_BiggestNumber\obj\Debug\net5.0\Loops_BiggestNumber.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Loops_BiggestNumber\Loops_BiggestNumber\obj\Debug\net5.0\Loops_BiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Loops_BiggestNumber\Loops_BiggestNumber\obj\Debug\net5.0\Loops_BiggestNumber.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Loops_BiggestNumber\Loops_BiggestNumber\obj\Debug\net5.0\Loops_BiggestNumber.AssemblyInfo.cs
+C:\Users\anass\source\repos\Loops_BiggestNumber\Loops_BiggestNumber\obj\Debug\net5.0\Loops_BiggestNumber.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Loops_BiggestNumber\Loops_BiggestNumber\bin\Debug\net5.0\Loops_BiggestNumber.exe
+C:\Users\anass\source\repos\Loops_BiggestNumber\Loops_BiggestNumber\bin\Debug\net5.0\Loops_BiggestNumber.deps.json
+C:\Users\anass\source\repos\Loops_BiggestNumber\Loops_BiggestNumber\bin\Debug\net5.0\Loops_BiggestNumber.runtimeconfig.json
+C:\Users\anass\source\repos\Loops_BiggestNumber\Loops_BiggestNumber\bin\Debug\net5.0\Loops_BiggestNumber.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Loops_BiggestNumber\Loops_BiggestNumber\bin\Debug\net5.0\Loops_BiggestNumber.dll
+C:\Users\anass\source\repos\Loops_BiggestNumber\Loops_BiggestNumber\bin\Debug\net5.0\ref\Loops_BiggestNumber.dll
+C:\Users\anass\source\repos\Loops_BiggestNumber\Loops_BiggestNumber\bin\Debug\net5.0\Loops_BiggestNumber.pdb
+C:\Users\anass\source\repos\Loops_BiggestNumber\Loops_BiggestNumber\obj\Debug\net5.0\Loops_BiggestNumber.dll
+C:\Users\anass\source\repos\Loops_BiggestNumber\Loops_BiggestNumber\obj\Debug\net5.0\ref\Loops_BiggestNumber.dll
+C:\Users\anass\source\repos\Loops_BiggestNumber\Loops_BiggestNumber\obj\Debug\net5.0\Loops_BiggestNumber.pdb
+C:\Users\anass\source\repos\Loops_BiggestNumber\Loops_BiggestNumber\obj\Debug\net5.0\Loops_BiggestNumber.genruntimeconfig.cache

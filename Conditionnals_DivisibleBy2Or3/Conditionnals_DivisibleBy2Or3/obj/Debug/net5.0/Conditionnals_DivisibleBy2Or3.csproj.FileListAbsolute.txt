@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Conditionnals_DivisibleBy2Or3\Conditionnals_DivisibleBy2Or3\bin\Debug\net5.0\Conditionnals_DivisibleBy2Or3.exe
+C:\Users\anass\source\repos\Conditionnals_DivisibleBy2Or3\Conditionnals_DivisibleBy2Or3\bin\Debug\net5.0\Conditionnals_DivisibleBy2Or3.deps.json
+C:\Users\anass\source\repos\Conditionnals_DivisibleBy2Or3\Conditionnals_DivisibleBy2Or3\bin\Debug\net5.0\Conditionnals_DivisibleBy2Or3.runtimeconfig.json
+C:\Users\anass\source\repos\Conditionnals_DivisibleBy2Or3\Conditionnals_DivisibleBy2Or3\bin\Debug\net5.0\Conditionnals_DivisibleBy2Or3.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Conditionnals_DivisibleBy2Or3\Conditionnals_DivisibleBy2Or3\bin\Debug\net5.0\Conditionnals_DivisibleBy2Or3.dll
+C:\Users\anass\source\repos\Conditionnals_DivisibleBy2Or3\Conditionnals_DivisibleBy2Or3\bin\Debug\net5.0\ref\Conditionnals_DivisibleBy2Or3.dll
+C:\Users\anass\source\repos\Conditionnals_DivisibleBy2Or3\Conditionnals_DivisibleBy2Or3\bin\Debug\net5.0\Conditionnals_DivisibleBy2Or3.pdb
+C:\Users\anass\source\repos\Conditionnals_DivisibleBy2Or3\Conditionnals_DivisibleBy2Or3\obj\Debug\net5.0\Conditionnals_DivisibleBy2Or3.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Conditionnals_DivisibleBy2Or3\Conditionnals_DivisibleBy2Or3\obj\Debug\net5.0\Conditionnals_DivisibleBy2Or3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Conditionnals_DivisibleBy2Or3\Conditionnals_DivisibleBy2Or3\obj\Debug\net5.0\Conditionnals_DivisibleBy2Or3.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Conditionnals_DivisibleBy2Or3\Conditionnals_DivisibleBy2Or3\obj\Debug\net5.0\Conditionnals_DivisibleBy2Or3.AssemblyInfo.cs
+C:\Users\anass\source\repos\Conditionnals_DivisibleBy2Or3\Conditionnals_DivisibleBy2Or3\obj\Debug\net5.0\Conditionnals_DivisibleBy2Or3.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Conditionnals_DivisibleBy2Or3\Conditionnals_DivisibleBy2Or3\obj\Debug\net5.0\Conditionnals_DivisibleBy2Or3.dll
+C:\Users\anass\source\repos\Conditionnals_DivisibleBy2Or3\Conditionnals_DivisibleBy2Or3\obj\Debug\net5.0\ref\Conditionnals_DivisibleBy2Or3.dll
+C:\Users\anass\source\repos\Conditionnals_DivisibleBy2Or3\Conditionnals_DivisibleBy2Or3\obj\Debug\net5.0\Conditionnals_DivisibleBy2Or3.pdb
+C:\Users\anass\source\repos\Conditionnals_DivisibleBy2Or3\Conditionnals_DivisibleBy2Or3\obj\Debug\net5.0\Conditionnals_DivisibleBy2Or3.genruntimeconfig.cache

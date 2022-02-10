@@ -1,0 +1,16 @@
+C:\Users\anass\source\repos\Conditional.YearLeap\Conditional.YearLeap\bin\Debug\net5.0\Conditional.YearLeap.exe
+C:\Users\anass\source\repos\Conditional.YearLeap\Conditional.YearLeap\bin\Debug\net5.0\Conditional.YearLeap.deps.json
+C:\Users\anass\source\repos\Conditional.YearLeap\Conditional.YearLeap\bin\Debug\net5.0\Conditional.YearLeap.runtimeconfig.json
+C:\Users\anass\source\repos\Conditional.YearLeap\Conditional.YearLeap\bin\Debug\net5.0\Conditional.YearLeap.runtimeconfig.dev.json
+C:\Users\anass\source\repos\Conditional.YearLeap\Conditional.YearLeap\bin\Debug\net5.0\Conditional.YearLeap.dll
+C:\Users\anass\source\repos\Conditional.YearLeap\Conditional.YearLeap\bin\Debug\net5.0\ref\Conditional.YearLeap.dll
+C:\Users\anass\source\repos\Conditional.YearLeap\Conditional.YearLeap\bin\Debug\net5.0\Conditional.YearLeap.pdb
+C:\Users\anass\source\repos\Conditional.YearLeap\Conditional.YearLeap\obj\Debug\net5.0\Conditional.YearLeap.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\Conditional.YearLeap\Conditional.YearLeap\obj\Debug\net5.0\Conditional.YearLeap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\Conditional.YearLeap\Conditional.YearLeap\obj\Debug\net5.0\Conditional.YearLeap.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\Conditional.YearLeap\Conditional.YearLeap\obj\Debug\net5.0\Conditional.YearLeap.AssemblyInfo.cs
+C:\Users\anass\source\repos\Conditional.YearLeap\Conditional.YearLeap\obj\Debug\net5.0\Conditional.YearLeap.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\Conditional.YearLeap\Conditional.YearLeap\obj\Debug\net5.0\Conditional.YearLeap.dll
+C:\Users\anass\source\repos\Conditional.YearLeap\Conditional.YearLeap\obj\Debug\net5.0\ref\Conditional.YearLeap.dll
+C:\Users\anass\source\repos\Conditional.YearLeap\Conditional.YearLeap\obj\Debug\net5.0\Conditional.YearLeap.pdb
+C:\Users\anass\source\repos\Conditional.YearLeap\Conditional.YearLeap\obj\Debug\net5.0\Conditional.YearLeap.genruntimeconfig.cache

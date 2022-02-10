@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GrandCircus/1.0.0": {
+        "runtime": {
+          "GrandCircus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GrandCircus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
