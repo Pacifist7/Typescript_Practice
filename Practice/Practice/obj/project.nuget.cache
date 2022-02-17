@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yM4ETvO7NVHkogvNWROiqY1UsjEB6DaGhKhfukFl6bu0Ra+wttS+Oy9CNhmzwRF/IYjwrZ/ymg5mS0APy9TfFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anass\\source\\repos\\Practice\\Practice\\Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anass\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

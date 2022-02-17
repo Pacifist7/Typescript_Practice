@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "o1H9vdDeDyc2nNr4iT1mznzb0PQE58GiMYmiOxvX+UYaiAiYKUWRmWyr6mqYn9f6az3LrLSvQZQGKTOirbr/WA==",
+  "dgSpecHash": "dsQb5hWTUJ97mllj4txbgf32+iuxYxZ/bGOm9zD8jDMsQKfBj5RXIdrqAjAVH0qeVb6jYpdz6HXa9z61lz5iqQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\anass\\source\\repos\\GrandCircus\\GrandCircus\\GrandCircus.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\anass\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
