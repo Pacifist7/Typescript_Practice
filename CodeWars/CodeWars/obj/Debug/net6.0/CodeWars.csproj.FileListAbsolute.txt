@@ -1,0 +1,15 @@
+C:\Users\anass\source\repos\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.exe
+C:\Users\anass\source\repos\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.deps.json
+C:\Users\anass\source\repos\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.runtimeconfig.json
+C:\Users\anass\source\repos\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.dll
+C:\Users\anass\source\repos\CodeWars\CodeWars\bin\Debug\net6.0\ref\CodeWars.dll
+C:\Users\anass\source\repos\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.pdb
+C:\Users\anass\source\repos\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.AssemblyInfo.cs
+C:\Users\anass\source\repos\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.dll
+C:\Users\anass\source\repos\CodeWars\CodeWars\obj\Debug\net6.0\ref\CodeWars.dll
+C:\Users\anass\source\repos\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.pdb
+C:\Users\anass\source\repos\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.genruntimeconfig.cache

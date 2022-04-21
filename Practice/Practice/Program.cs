@@ -194,7 +194,11 @@ l
 
             Console.WriteLine(product);
  */
+
 using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Practice
 {
@@ -202,12 +206,109 @@ namespace Practice
     {
         static void Main(string[] args)
         {
+            //var arrayList = new ArrayList();
 
-         
+            //arrayList.Add("Banana");
+            //arrayList.Add(5);
+            //arrayList.Add(true);
+
+            //List<string> name = new List<string>();
+            //name.Add("Orange");
+            //name.Add("Banana");
+            //name.Add("Apple");
+
+            //Console.WriteLine(string.Join(",", name));
+
+            //name.Remove("Banana");
+            //Console.WriteLine(string.Join(",", name));
+
+            //List<int> listOfIntegers = new List<int>()
+            //{
+            //    10,
+            //    2500,
+            //    15,
+            //    35,
+            //    37,
+            //    1050
+            //};
+
+            ////Array has a set number of elements
+            ////List does not have a set number of elements, we can add and subtract elements
+
+            //string[] stringArray = new string[3] { "uhyvg", "liyvg", "liygvi" };
+
+            //Console.WriteLine(listOfIntegers.Count());
+
+            //var thisNum = listOfIntegers[0];
+
+            //int GetCountOfList(List<int> listOfInt)
+            //{
+            //    return listOfInt.Count();
+            //}
+
+            //Console.WriteLine(GetCountOfList(listOfIntegers));
+
+            //Dictionariy<key,value>
+
+            //Dictionary<string, string> dictionaryWords = new Dictionary<string, string>();
+
+            //dictionaryWords.Add("Bob", "He lives in CT");
+            //dictionaryWords.Add("Joe", "He lives in NJ");
+            //dictionaryWords.Add("Steve", "He lives in MI");
+
+            ////Console.WriteLine(dictionaryWords["Steve"]);
+            //Console.WriteLine(dictionaryWords["Joe"]);
+
+            //foreach(KeyValuePair<string,string> keyValuePair in dictionaryWords)
+            //{
+            //    Console.WriteLine(keyValuePair.Key);
+            //    Console.WriteLine(keyValuePair.Value);
+            //}
+
+            var value = true;
+            do
+            {
+                Dictionary<string, string> dictionaryWords = new Dictionary<string, string>()
+                {
+                    { "Hey", "Salut"},
+                    { "Squirrel", "Ecureuil"},
+                    { "Slippers", "Pantoufles"},
+                    { "Beach", "Plage"},
+                    { "Computer", "Ordinateur"}
+                };
+
+                Console.WriteLine("Please enter a word in English from the following selection: 'Hey', 'Squirrel', 'Slippers', Beach', 'Computer'");
+
+                var answer = Console.ReadLine();
+
+                if (dictionaryWords.ContainsKey($"{answer}"))
+                {
 
 
+                    Console.WriteLine($"{answer} in French is {dictionaryWords[answer]}");
 
+                    Console.WriteLine("Would you like to continue? y/n");
+
+                    var answer2 = Console.ReadLine();
+
+                    if (answer2 == "y")
+                    {
+                        continue;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Goodbye!");
+                        break;
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Your entry is not in this dictionary");
+                }
+            }
+            while (value == true);
         }
+        
     }
 
 

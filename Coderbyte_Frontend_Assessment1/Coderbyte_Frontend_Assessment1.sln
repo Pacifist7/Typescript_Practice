@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coderbyte_Frontend_Assessment1", "Coderbyte_Frontend_Assessment1\Coderbyte_Frontend_Assessment1.csproj", "{549AECB3-451E-45A0-887E-65EE72FBF4B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{549AECB3-451E-45A0-887E-65EE72FBF4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549AECB3-451E-45A0-887E-65EE72FBF4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549AECB3-451E-45A0-887E-65EE72FBF4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549AECB3-451E-45A0-887E-65EE72FBF4B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5322BAB-7046-4874-BF1A-721125CD0E52}
+	EndGlobalSection
+EndGlobal

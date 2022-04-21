@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yM4ETvO7NVHkogvNWROiqY1UsjEB6DaGhKhfukFl6bu0Ra+wttS+Oy9CNhmzwRF/IYjwrZ/ymg5mS0APy9TfFg==",
+  "dgSpecHash": "n8V37r9xHrwgbQqhRbeNNdRapKNpZ7Wh8KZznGbbwQytojzTBKl/J25vRU52kMNhkIU4aIwfmslDvR7hGqjDbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\anass\\source\\repos\\Practice\\Practice\\Practice.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\anass\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\anass\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\anass\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\anass\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\anass\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
   ],
   "logs": []

@@ -1,19 +1,10 @@
-﻿using System;
-using System.Linq;
-
-namespace StudentDatabaseLab
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var value = true;
+﻿var value = true;
 
             do
             {
                 string[] nameArray = new string[3] { "Frederick Douglass", "Malcolm X", "John Lewis" };
 
-                string[] homeTownArray = new string[3] { "Maryland", "Nebraska", "atlanta" };
+                string[] homeTownArray = new string[3] { "Maryland", "Nebraska", "Atlanta" };
 
                 string[] favoriteFoodArray = new string[3] { "crab cakes", "a Reuben sandwich", "a peach cobbler" };
 
@@ -35,19 +26,19 @@ namespace StudentDatabaseLab
 
                 if (answer2 == 1)
                 {
-                    Console.WriteLine($"{nameArray[index]} is from {homeTownArray[index]}");
+                    Console.WriteLine($"{nameArray[index]} is from {homeTownArray[index]}.");
                 }
                 else if (answer2 == 2)
                 {
-                    Console.WriteLine($"{nameArray[index]}'s favorite food is {favoriteFoodArray[index]}");
+                    Console.WriteLine($"{nameArray[index]}'s favorite food is {favoriteFoodArray[index]}.");
                 }
                 else
                 {
-                    Console.WriteLine("That category does not exist. Please try again. Enter '1' for hometown or '2' for favorite food");
+                    Console.WriteLine("That category does not exist. Please try again. Enter '1' for hometown or '2' for favorite food.");
                 }
 
 
-                Console.WriteLine("Would you like to learn about another student? Enter 'y' or 'n'");
+                Console.WriteLine("Would you like to learn about another student? Enter 'y' or 'n'.");
 
                 var answer3 = Console.ReadLine();
 
@@ -63,6 +54,5 @@ namespace StudentDatabaseLab
             }
 
             while (value == true);
-        }
-    }
-}
+        
+
